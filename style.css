@@ -7,6 +7,9 @@
 body{
     background-color: hsl(0, 0%, 100%);
 }
+h4{
+    font-family: 'Raleway', sans-serif;
+}
 
 .info{
     display: flex;
@@ -99,6 +102,7 @@ body{
     max-width: 374px;
     min-width: 374px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .client-rev{

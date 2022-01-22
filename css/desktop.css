@@ -1,0 +1,8 @@
+.info{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align:start;
+    width: 100vw;
+}
